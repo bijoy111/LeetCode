@@ -15,5 +15,4 @@ The solution to the LeetCode problem solved by me is provided here.
 | 10. | Optimal Partition of String |  [Description](https://leetcode.com/problems/optimal-partition-of-string/)  | [Code](Optimal%20Partition%20of%20String.cpp) | Hash Table,String,Greedy | Medium | ✔ |
 | 11. | Find Valid Matrix Given Row and Column Sums |  [Description](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)  | [Code](Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.cpp) | Array,Greedy,Matrix | Medium | ✔ |
 | 12. | Count Good Nodes in Binary Tree |  [Description](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)  | [Code](Count%20Good%20Nodes%20in%20Binary%20Tree.cpp) | Tree,BFS,DFS,Binary Tree | Medium | ✔ |
-
 |  |  |  [Description]()  | [Code]() |  | Medium | ✔ |
