@@ -16,4 +16,12 @@ The solution to the LeetCode problem solved by me is provided here.
 | 11. | Find Valid Matrix Given Row and Column Sums |  [Description](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)  | [Code](Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.cpp) | Array,Greedy,Matrix | Medium | ✔ |
 | 12. | Count Good Nodes in Binary Tree |  [Description](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)  | [Code](Count%20Good%20Nodes%20in%20Binary%20Tree.cpp) | Tree,BFS,DFS,Binary Tree | Medium | ✔ |
 | 13. | Max Area of Island |  [Description](https://leetcode.com/problems/max-area-of-island/description/)  | [Code](Max%20Area%20of%20Island.cpp) | DFS,BFS,Union Find,Matrix | Medium | ✔ |
-| 14. |  |  [Description]()  | [Code]() |  | Medium | ✔ |
+| 15. | Lowest Common Ancestor of binary tree |  [Description](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)  | [Code](Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp) | Tree,Binary Tree,DFS | Medium | ✔ |
+| 16. | Number of Enclaves |  [Description](https://leetcode.com/problems/number-of-enclaves/)  | [Code](Number%20of%20Enclaves.cpp) | DFS,BFS | Medium | ✔ |
+| 17. | Maximum Difference Between Node and Ancestor |  [Description](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)  | [Code](Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp) | DFS,Binary Tree | Medium | ✔ |
+| 18. | Kth Smallest Element in a BST |  [Description](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | [Code](Kth%20Smallest%20Element%20in%20a%20BST.cpp) | Tree,BFS,DFS | Medium | ✔ |
+| 19. | Number of Islands |  [Description](https://leetcode.com/problems/number-of-islands/description/)  | [Code](Number%20of%20Islands.cpp) | Array,BFS,DFS,Union find,Matrix | Medium | ✔ |
+| 20. | Distribute Coins in Binary Tree |  [Description](https://leetcode.com/problems/distribute-coins-in-binary-tree/)  | [Code](Distribute%20Coins%20in%20Binary%20Tree.cpp) | DFS,Tree | Medium | ✔ |
+| 21. | Maximum Level Sum of a Binary Tree |  [Description](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)  | [Code](Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.cpp) | Tree,BFS,DFS,Binary Tree | Medium | ✔ |
+| 22. | Lowest Common Ancestor of binary tree |  [Description](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)  | [Code](Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp) | Tree,Binary Tree,DFS | Medium | ✔ |
+| 23. |  |  [Description]()  | [Code]() |  | Medium | ✔ |
